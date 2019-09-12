@@ -1,0 +1,17 @@
+.vertical-center {
+    min-height: 70%;
+    min-height: 70vh;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    background-color: white;
+  }
+
+.card {
+    margin: 1%;
+}
+
+img {
+    width: 60%;
+}
